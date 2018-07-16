@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="483298fd-e043-4eca-9adf-0f70366aa673" name="Default" comment="Added lucky.py">
+    <list default="true" id="483298fd-e043-4eca-9adf-0f70366aa673" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/scripts/anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/digitalRoot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonWebScraping/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
     </list>
     <ignored path="code.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,8 +19,11 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/pythonPractice$mapIt.coverage" NAME="mapIt Coverage Results" MODIFIED="1531337985280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
-    <SUITE FILE_PATH="coverage/pythonPractice$iterContent.coverage" NAME="iterContent Coverage Results" MODIFIED="1531340055595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWebScraping" />
+    <SUITE FILE_PATH="coverage/pythonPractice$iterContent.coverage" NAME="iterContent Coverage Results" MODIFIED="1531490777118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWebScraping" />
+    <SUITE FILE_PATH="coverage/pythonPractice$digitalRoot.coverage" NAME="digitalRoot Coverage Results" MODIFIED="1531677816029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/pythonPractice$downloadXkcd.coverage" NAME="downloadXkcd Coverage Results" MODIFIED="1531491646090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWebScraping" />
     <SUITE FILE_PATH="coverage/pythonPractice$requestErrorTest.coverage" NAME="requestErrorTest Coverage Results" MODIFIED="1531338090458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/pythonPractice$anagrams.coverage" NAME="anagrams Coverage Results" MODIFIED="1531677936564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -31,80 +37,34 @@
         <entry file="file://$PROJECT_DIR$/scripts/birthdays.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+              <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mapIt.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonWebScraping/mapIt.py">
+      <file leaf-file-name="digitalRoot.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/digitalRoot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="138">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requestErrorTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonWebScraping/requestErrorTest.py">
+      <file leaf-file-name="anagrams.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/anagrams.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+            <state relative-caret-position="138">
+              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example.html">
+      <file leaf-file-name="downloadXkcd.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonWebScraping/downloadXkcd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lucky.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonWebScraping/lucky.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="iterContent.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonWebScraping/iterContent.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RomeoAndJuliet.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RomeoAndJuliet.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="RomeoAndJuliet.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonWebScraping/RomeoAndJuliet.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="myCats.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myCats.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="characterCount.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/characterCount.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="115">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -121,6 +81,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -132,6 +95,10 @@
         <option value="$PROJECT_DIR$/pythonWebScraping/example.html" />
         <option value="$PROJECT_DIR$/pythonWebScraping/googleRequest.py" />
         <option value="$PROJECT_DIR$/pythonWebScraping/lucky.py" />
+        <option value="$PROJECT_DIR$/pythonWebScraping/downloadXkcd.py" />
+        <option value="$PROJECT_DIR$/scripts/creditMask.py" />
+        <option value="$PROJECT_DIR$/scripts/digitalRoot.py" />
+        <option value="$PROJECT_DIR$/scripts/anagrams.py" />
       </list>
     </option>
   </component>
@@ -144,11 +111,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="840" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1222" />
     <option name="y" value="23" />
-    <option name="width" value="840" />
-    <option name="height" value="1027" />
+    <option name="width" value="1368" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -172,6 +139,11 @@
             </path>
             <path>
               <item name="pythonPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -185,7 +157,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.chrisrm.idea.config" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -213,8 +185,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.iterContent">
-    <configuration name="birthdays (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.anagrams">
+    <configuration name="anagrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,13 +199,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/birthdays.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/anagrams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="characterCount" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="digitalRoot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,7 +218,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/characterCount.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/digitalRoot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="downloadXkcd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonWebScraping" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonWebScraping/downloadXkcd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,25 +258,6 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonWebScraping/iterContent.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="mapIt" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonWebScraping/mapIt.py" />
-      <option name="PARAMETERS" value="&quot;1707 Norman Street, Ridgewood, NY 11385&quot;" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -329,19 +301,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Python.birthdays (1)" />
-      <item itemvalue="Python.characterCount" />
-      <item itemvalue="Python.mapIt" />
       <item itemvalue="Python.requestErrorTest" />
       <item itemvalue="Python.iterContent" />
+      <item itemvalue="Python.downloadXkcd" />
+      <item itemvalue="Python.digitalRoot" />
+      <item itemvalue="Python.anagrams" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.anagrams" />
+        <item itemvalue="Python.digitalRoot" />
+        <item itemvalue="Python.downloadXkcd" />
         <item itemvalue="Python.iterContent" />
         <item itemvalue="Python.requestErrorTest" />
-        <item itemvalue="Python.mapIt" />
-        <item itemvalue="Python.birthdays (1)" />
-        <item itemvalue="Python.characterCount" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +370,21 @@
       <option name="project" value="LOCAL" />
       <updated>1531417559000</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added lucky.py">
+      <created>1531419507987</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1531419507987</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Created 'downloadXkcd.py'">
+      <created>1531492025751</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1531492025751</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -411,24 +397,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="840" y="23" width="840" height="1027" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="2560" height="1417" extended-state="6" />
     <layout>
-      <window_info active="true" anchor="bottom" id="TODO" order="6" sideWeight="0.49880952" visible="true" weight="0.32977587" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5011905" side_tool="true" visible="true" weight="0.32977587" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49880952" weight="0.32977587" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50357145" side_tool="true" weight="0.28183874" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49285713" weight="0.3276414" />
-      <window_info anchor="bottom" x="840" y="47" width="840" height="492" id="Python Console" order="7" sideWeight="0.49761903" type="WINDOWED" weight="0.32977587" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4952381" weight="0.22732124" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49285713" visible="true" weight="0.32705352" />
+      <window_info anchor="bottom" x="1588" y="382" width="1135" height="764" id="Python Console" order="7" sideWeight="0.49761903" type="WINDOWED" weight="0.32977587" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49166667" weight="0.22682743" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32942432" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30952382" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21328124" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978677" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49642858" weight="0.3991462" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -436,6 +421,29 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49285713" weight="0.3276414" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21346469" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49880952" weight="0.32977587" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49166667" weight="0.22732124" />
+      <window_info active="true" anchor="bottom" x="2598" y="347" width="1135" height="764" id="Python Console" order="8" sideWeight="0.49761903" type="WINDOWED" visible="true" weight="0.32977587" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32942432" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50357145" side_tool="true" visible="true" weight="0.28183874" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49642858" weight="0.3991462" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -458,66 +466,22 @@
     <MESSAGE value="Added a lot of work being done on web scraping." />
     <MESSAGE value="Added example.html." />
     <MESSAGE value="Added lucky.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added lucky.py" />
+    <MESSAGE value="Created 'downloadXkcd.py'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created 'downloadXkcd.py'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
       <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scripts/prettyCharacterCount.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/characterCount.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myCats.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/birthdays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/characterCount.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/prettyCharacterCount.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -672,13 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/birthdays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/characterCount.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -716,14 +673,65 @@
     <entry file="file://$PROJECT_DIR$/example.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonWebScraping/lucky.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonWebScraping/xkcd/wall_art.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonWebScraping/xkcd/4th_of_july.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonWebScraping/xkcd/7_eleven.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5_1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonWebScraping/downloadXkcd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/creditMask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/birthdays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/digitalRoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/anagrams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
