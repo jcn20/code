@@ -12,7 +12,5 @@ def anagrams(word, words):
     else:
         return full
 
-print (anagrams('racer', ['crazer', 'carer', 'racar', 'caers', 'racer']))
 
-
-
+print(anagrams('racer', ['crazer', 'carer', 'racar', 'caers', 'racer']))
