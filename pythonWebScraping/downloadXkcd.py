@@ -3,6 +3,7 @@
 
 import requests, os, bs4
 
+
 url = 'http://xkcd.com'  # starting URL
 os.makedirs('xkcd', exist_ok=True)  # store comics in ./xkcd
 while not url.endswith('#'):
